@@ -1,0 +1,6 @@
+framework module Pods_AirNexTests {
+  umbrella header "Pods-AirNexTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
